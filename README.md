@@ -43,7 +43,7 @@ adb shell 'su -c sed -i s/com.example.package/your.target.application/ /data/loc
 
 该模块还支持添加启动延迟，可以延迟小工具的注入，以避免在启动时运行检查、加载任意库和子门控.
 
-Please take a look at the [configuration guide](docs/advanced_config.md) for this.
+请查看此[配置指南](docs/advanced_config.md).
 
 ## 如何构建
 
